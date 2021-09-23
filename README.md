@@ -30,8 +30,7 @@
 - *NOTE:* You must ensure you place the __unzipped__ folder (*and all its contents*) straight into the correct ~/Exchange-Raw-Data/<exchange_name> folder as I described above.
 
 
-### Can I contribute my own Exchange-Raw-Data Collections via PR to this repository or to the the cloud database storage ??? :
-- Due to the nature of our business and the unfortunate fact that there are still criminals and immoral @**holes on this Planet I cannot accept zipped files or really any other file to this database from unknown individuals.
+### My desired Data is not listed here ??? :
 - Get with me either [here](https://github.com/PLuv) or on Telegram __[@PluvTech](https://t.me/PLuvtech)__ to discuss or make a request for additions to this database.  Also please do notify me of any issues directly related to the downloads.
 
 ___
