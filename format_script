@@ -1,0 +1,4 @@
+#!/bin/bash
+for f in *.zip ; do
+    echo -n "| [$f" | cut -d "." -f1 | tr -d $'\n' && echo -n "]() | \`" && sha256sum $f | cut -d " " -f1 | tr -d $'\n' && echo "\` |";
+done
