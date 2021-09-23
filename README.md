@@ -13,7 +13,7 @@
 - __Who:__  [PluvTech](https://t.me/PLuvtech)
 - __What:__ Links to backup copies of the Exchange-Raw-Data required for use at Superalgos Exchange Data Tasks along with their corresponding sha256sums.
 - __Why:__
-    - Zip files are compressed and data has already been processed by the sensor bot facilitating a MUCH quicker download of Exchange-Raw-Data!
+    - Zip files are compressed and data has already been processed by the sensor bot facilitating a MUCH quicker download of Exchange-Raw-Data and install of new markets!
     - By removing the bulk of the exchange-raw-data download burden the data transfer is up to 79% lighter and thus cheaper for those unfortunate enough to be behind meters.
     - *Side-effect benefit:* Alleviates stress on Binance's API.
 
@@ -25,7 +25,7 @@
 
 
 ### Example:
-- You downloaded BTC-USDT.zip for ***Binance*** exchange.
+- You download BTC-USDT.zip for ***Binance*** exchange.
 - unzip to: `Superalgos/Data-Storage/Project/Foundations/Data-Mine/Candles/Exchnage-Raw-Data/binance/<-Put_it_Here->`
 - *NOTE:* You must ensure you place the __unzipped__ folder (*and all its contents*) straight into the correct ~/Exchange-Raw-Data/<exchange_name> folder as I described above.
 
