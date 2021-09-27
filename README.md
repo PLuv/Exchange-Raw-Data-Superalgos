@@ -121,7 +121,7 @@ ___
 
 ___
 
-### __Happy about how much time this repo saved you and want to contribute towards its upkeep/storage costs?__
+### Happy about how much time this repo saved you and want to contribute towards its upkeep/storage costs?
 
 __Some good ideas:__
 1. __Contribute something great to the project!__
