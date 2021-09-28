@@ -22,6 +22,7 @@
 1. Scroll down the list below to the desired exchange.
 2. Click and download the desired market.
 3. Unzip to the appropriate location within your `~/Superalgos/Data-Storage/` sub-directories.
+4. At the "Exchange Raw Data" sensor bot node make sure to set your start date far enough back: `{ "startDate": "2015-01-01" }`
 
 
 ### Example:
