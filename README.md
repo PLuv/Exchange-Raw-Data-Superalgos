@@ -15,6 +15,7 @@
 - __Why:__
     - Zip files are compressed and data has already been processed by the sensor bot facilitating a MUCH quicker download of Exchange-Raw-Data and install of new markets!
     - By removing the bulk of the exchange-raw-data download burden the data transfer is up to 79% lighter and thus cheaper for those unfortunate enough to be behind meters.
+    - > 99% increase to speed of Exchange-Raw-Data download.
     - *Side-effect benefit:* Alleviates stress on Binance's API.
 
 
