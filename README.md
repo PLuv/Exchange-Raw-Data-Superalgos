@@ -22,13 +22,13 @@
 ## Directions:
 1. Scroll down the list below to the desired exchange.
 2. Click and download the desired market.
-3. Unzip to the appropriate location within your `~/Superalgos/Data-Storage/` sub-directories.
+3. Unzip to the appropriate location within your `~/Superalgos/Platform/My-Data-Storage/` sub-directories.
 4. At the "Exchange Raw Data" sensor bot node make sure to set your start date far enough back: `{ "startDate": "2015-01-01" }`
 
 
 ### Example:
 - You download BTC-USDT.zip for ***Binance*** exchange.
-- unzip to: `Superalgos/Data-Storage/Project/Foundations/Data-Mine/Candles/Exchnage-Raw-Data/binance/<-Put_it_Here->`
+- unzip to: `Superalgos/Platform/My-Data-Storage/Project/Data-Mining/Data-Mine/Candles/Exchange-Raw-Data/binance/<-Put_it_Here->`
 - *NOTE:* You must ensure you place the __unzipped__ folder (*and all its contents*) straight into the correct ~/Exchange-Raw-Data/<exchange_name> folder as I described above.
 
 
